@@ -1,53 +1,129 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+    Pathfinding: Boris // Devi&#39;s Blog
+  </title>
 
-    <title>Pathfindng: Boris &middot; Devi&#39;s Blog</title>
-    <meta name="author" content="">
-    <meta name="description" content="">
-    <meta name="generator" content="Hugo 0.16" />
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-    <!-- RSS autodiscovery -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="generator" content="Hugo 0.16" />
+
+  <meta property="og:title" content="Pathfinding: Boris" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="http://devi-a.com/blog/post/pathfinding-boris/" />
+
+
+  
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/base-min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/pure-min.css">
+  
+  
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/grids-responsive-min.css">
+  
+  
+
+  <link rel="stylesheet" href="http://devi-a.com/blog//css/redlounge.css">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='//fonts.googleapis.com/css?family=Raleway:400,200,100,700,300,500,600,800' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="Devi&#39;s Blog" />
+
     
+  
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/styles/tomorrow-night-bright.min.css">
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
 
-    <link rel="shortcut icon" href="http://devi-a.com/blog/img/favicon.ico">
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/2.1.2/normalize.min.css">
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="http://devi-a.com/blog/css/screen.css">
-    <link rel="stylesheet" href="http://devi-a.com/blog/css/github.css">
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/styles/default.min.css">
+  
 
-    <!-- Stylesheet for theme color -->
-    
+  
+
+  
+
+  
 </head>
 
-<body class="post-template">
+<body>
+	
 
-    <header id="site-head">
-	
-	
-</header>
+	<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+  <div class="header">
     
 
-    <main class="content" role="main">
-	    <article class="post">
-	        <header>
-	        <h1 class="post-title">Pathfindng: Boris</h1>
-	        <div class="post-meta"><time datetime="14 September 2015">14 September 2015</time></div>
-	        </header>
+	
 
-	        <section class="post-content">
-	            <p>Over the summer I had two plans: I wanted to learn how to play Dungeons &amp; Dragons and Magic: The Gathering. Needless to say it was a great summer.</p>
+    
+    
+
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://devi-a.com/blog/">Home</a></li>
+        
+      </ul>
+    </nav>
+
+    
+
+  </div>
+</div>
+
+	
+	
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+		<a name="top"></a>
+		
+
+		
+			
+	    
+  		<section class="post">
+            <h1 class="post-title">
+              <a href="/blog/post/pathfinding-boris/">Pathfinding: Boris</a>
+            </h1>
+            <h3 class="post-subtitle">
+            	
+            </h3>
+            
+            	<span class="post-date">
+                	<span class="post-date-day"><sup>14</sup></span><span class="post-date-separator">/</span><span class="post-date-month">Sep</span> <span class="post-date-year">2015</span>
+            	</span>
+            	
+            
+            	
+            
+
+			
+			
+
+			
+
+			
+
+            <p>Over the summer I had two plans: I wanted to learn how to play Dungeons &amp; Dragons and Magic: The Gathering. Needless to say it was a great summer.</p>
 
 <p>Here I recount my first characters, played in D&amp;D Pathfinder.</p>
 
-<p>##BORIS</p>
+<h2>BORIS</h2>
 
 <p>My first character, Boris, was a halfling who used to live alone on the border between the woods and the fields at the foot of the mighty Dwarven city. He hunted down animals and the magical beasts he found, trading both animal parts and wool from the sheep he tended to. But restlessness stirred Boris into something resembling action, and he left behind the little he owned in search of something to soothe his sudden wanderlust. His travels brought him to a small town not renowned for much but a local magician.</p>
 
@@ -83,76 +159,72 @@
 
 <p>Special thanks for the awesome group at MassDiGI&rsquo;s Summer Innovation Program for making this happen!</p>
 
-	        </section>
+	
+			
 
-	        <section class="post-tags" style="padding-bottom:60px;">
-	            <div class="post-meta tags">
-	            <i class="fa fa-fw fa-tag"></i>
-	            
-	            <a href="http://devi-a.com/blog/tags/dungeons%20and%20dragons">dungeons and dragons </a>
-	            
-	            <a href="http://devi-a.com/blog/tags/characters">characters </a>
-	            
-	            <a href="http://devi-a.com/blog/tags/story">story </a>
-	            
+			
+				<div class="tags-list">
+					<span class="dark-red">Tags</span><span class="decorative-marker">//</span>
+					
+	                <a class="post-tag post-tag-dungeons-and-dragons" href="http://devi-a.com/blog//tags/dungeons-and-dragons">dungeons and dragons</a>,
+	                
+	                <a class="post-tag post-tag-characters" href="http://devi-a.com/blog//tags/characters">characters</a>,
+	                
+	                <a class="post-tag post-tag-story" href="http://devi-a.com/blog//tags/story">story</a>,
+	                
+	                <a class="post-tag post-tag-writing" href="http://devi-a.com/blog//tags/writing">writing</a>,
+	                
+				</div>
+			
+
+			
+				<div class="paging">
+					<span class="paging-label">More Reading</span>
+					
+					<div class="paging-newer">
+						<span class="dark-red">Newer</span><span class="decorative-marker">//</span>
+						<a class="paging-link" href="/blog/post/pathfinding-stella/">Pathfinding: Stella</a>
+		            </div>
+		            
+
+					
 	            </div>
-	        </section>
-			
-			
-			
-			
+            
+          </section>
+          
+          	<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'devi-a';
+    var disqus_identifier = 'http:\/\/devi-a.com\/blog\/post\/pathfinding-boris\/';
+    var disqus_title = 'Pathfinding: Boris';
+    var disqus_url = 'http:\/\/devi-a.com\/blog\/post\/pathfinding-boris\/';
 
-	        <section class="share">
-	            <p class="backtotop"><a data-scroll href="#site-head"><i class="fa fa-lg fa-fw fa-angle-double-up"></i></a><a data-scroll class="backtotoptext" href="#site-head"> </a></p>
-	            <p class="info prompt"></p>
-	            <a href="http://twitter.com/share?text=Pathfindng%3a%20Boris&url=http%3a%2f%2fdevi-a.com%2fblog%2fpost%2fpathfinding-boris%2f" title="Share on Twitter"
-	                onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-	                <i class="fa fa-2x fa-fw fa-twitter-square"></i> <span class="hidden">Twitter</span>
-	            </a>
-	            <a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fdevi-a.com%2fblog%2fpost%2fpathfinding-boris%2f" title="Share on Facebook"
-	                onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-	                <i class="fa fa-2x fa-fw fa-facebook-square" style="margin-left: -8px"></i> <span class="hidden">Facebook</span>
-	            </a>
-	            <a href="https://plus.google.com/share?url=http%3a%2f%2fdevi-a.com%2fblog%2fpost%2fpathfinding-boris%2f" title="Share on Google+"
-	               onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-	                <i class="fa fa-2x fa-fw fa-google-plus-square" style="margin-left: -8px"></i> <span class="hidden">Google+</span>
-	            </a>
-	        </section>
-
-	        <footer class="post-footer">
-	            <section class="author">
-    <div class="authorimage" style="background: url(http://devi-a.com/blog/img/avatar.jpg)"></div>
-    <h4></h4>
-    <p class="bio">
-	        </footer>
-	    </article>
-	</main>
-
-    <footer class="site-footer">
-	<div class="inner">
-		<section class="footer-social">
-			
-		    
-		    <a href="" target="_blank" title="RSS"><i class="fa fa-2x fa-fw fa-rss"></i> <span class="hidden">RSS</span></a>
-		</section>
-
-		<section class="copyright">&copy; 2016 <a href="http://devi-a.com/blog/"></a>. 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="http://devi-a.com/blog/js/index.js"></script>
-<script src="http://devi-a.com/blog/js/smooth-scroll.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/highlight.min.js"></script>
-
-<script>
-    smoothScroll.init({
-        speed: 800,
-        easing: 'easeInOutCubic',
-        updateURL: false,
-        offset: 125,
-    });
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
 </script>
-<script>hljs.initHighlightingOnLoad();</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          
+        
+      <div class="footer">
+	<hr class="thin" />
+	<div class="pure-menu pure-menu-horizontal pure-menu-open">
+		<ul class="footer-menu">
+		
+		</ul>
+	</div>
 
+	<p>&copy; 2016. All rights reserved.</p>
+</div>
+    </div>
+  </div>
+	
 
+	
 
+  
 </body>
 </html>

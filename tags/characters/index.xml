@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Devi&#39;s Blog</title>
-    <link>http://devi-a.com/blog/post/</link>
-    <description>Recent content in Posts on Devi&#39;s Blog</description>
+    <title>Characters on Devi&#39;s Blog</title>
+    <link>http://devi-a.com/blog/tags/characters/</link>
+    <description>Recent content in Characters on Devi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jul 2016 23:20:44 -0400</lastBuildDate>
-    <atom:link href="http://devi-a.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>So Many Releases!</title>
-      <link>http://devi-a.com/blog/post/so-many-releases/</link>
-      <pubDate>Thu, 28 Jul 2016 23:20:44 -0400</pubDate>
-      
-      <guid>http://devi-a.com/blog/post/so-many-releases/</guid>
-      <description>&lt;p&gt;This is all about the release of Fusion Galaxy and Eternal Flopnation.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2015 23:20:44 -0400</lastBuildDate>
+    <atom:link href="http://devi-a.com/blog/tags/characters/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pathfindng: Boris</title>

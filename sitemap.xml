@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://devi-a.com/</loc>
+    <loc>http://devi-a.com/blog/</loc>
     <lastmod>2016-07-28T23:20:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://devi-a.com/post/good-to-great/</loc>
+    <loc>http://devi-a.com/blog/post/so-many-releases/</loc>
     <lastmod>2016-07-28T23:20:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devi-a.com/blog/post/pathfinding-boris/</loc>
+    <lastmod>2015-09-14T23:20:44-04:00</lastmod>
   </url>
   
 </urlset>

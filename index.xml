@@ -1,26 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devi&#39;s Blog </title>
-    <link>http://devi-a.com/</link>
+    <title>Devi&#39;s Blog</title>
+    <link>http://devi-a.com/blog/</link>
+    <description>Recent content on Devi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2016</rights>
-    <updated>2016-07-28 23:20:44 -0400 EDT</updated>
-
+    <lastBuildDate>Thu, 28 Jul 2016 23:20:44 -0400</lastBuildDate>
+    <atom:link href="http://devi-a.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>So Many Releases!</title>
+      <link>http://devi-a.com/blog/post/so-many-releases/</link>
+      <pubDate>Thu, 28 Jul 2016 23:20:44 -0400</pubDate>
       
-        <item>
-          <title>good to great</title>
-          <link>http://devi-a.com/post/good-to-great/</link>
-          <pubDate>Thu, 28 Jul 2016 23:20:44 EDT</pubDate>
-          <author></author>
-          <guid>http://devi-a.com/post/good-to-great/</guid>
-          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+      <guid>http://devi-a.com/blog/post/so-many-releases/</guid>
+      <description>&lt;p&gt;This is all about the release of Fusion Galaxy and Eternal Flopnation.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
+    <item>
+      <title>Pathfindng: Boris</title>
+      <link>http://devi-a.com/blog/post/pathfinding-boris/</link>
+      <pubDate>Mon, 14 Sep 2015 23:20:44 -0400</pubDate>
+      
+      <guid>http://devi-a.com/blog/post/pathfinding-boris/</guid>
+      <description>&lt;p&gt;Over the summer I had two plans: I wanted to learn how to play Dungeons &amp;amp; Dragons and Magic: The Gathering. Needless to say it was a great summer.&lt;/p&gt;
 
+&lt;p&gt;Here I recount my first characters, played in D&amp;amp;D Pathfinder.&lt;/p&gt;
+
+&lt;p&gt;##BORIS&lt;/p&gt;
+
+&lt;p&gt;My first character, Boris, was a halfling who used to live alone on the border between the woods and the fields at the foot of the mighty Dwarven city. He hunted down animals and the magical beasts he found, trading both animal parts and wool from the sheep he tended to. But restlessness stirred Boris into something resembling action, and he left behind the little he owned in search of something to soothe his sudden wanderlust. His travels brought him to a small town not renowned for much but a local magician.&lt;/p&gt;
+
+&lt;p&gt;It was there, amidst the quiet bustle of the village, that Boris felt he could speak for the first time in what seemed a lifetime. He had assumed that his isolation, his reservation, it had been a choice, it had been what he wanted, and yet now that he found himself among others he could not keep from clinging to the life around him.&lt;/p&gt;
+
+&lt;p&gt;And the first of those connections, the one he valued until the end, was that of the bartender of the town, a brash and sarcastic man whose conversation hinted that he&amp;rsquo;d seen far more than any ordinary village bartender. As soon as Boris saw the bartender he knew it was love, not in the cerebral sense, but in the way that he suddenly could not imagine what his life would be like without this man.&lt;/p&gt;
+
+&lt;p&gt;Boris tried to carry on some halting, painful conversation, but was far too ill-equipped for any such talk. He left in the morning, heard talk of a call for adventurers to investigate the strange behavior of the ley lines nearby. Adventuring&amp;hellip; that seemed a good way to find companionship.&lt;/p&gt;
+
+&lt;p&gt;Boris warmed a little to his traveling companions. He was not much of a fighter, good with a bow and slipping out of tight spaces. But he had lived the life of the ordinary&amp;ndash;and it was here that he saw sights that made him freeze in his tracks. Strange spiders that would swarm and left dead bodies in their wake. Feral wolves with teeth falling out and regrowing. Rifts in the once-peaceful land of Marion. He could put on a brave face in combat and vanquish his foes, but it only heightened his sense that there was something very wrong.&lt;/p&gt;
+
+&lt;p&gt;And as the party returned to the village, he saw that it was burning. Those who he had found solace with just the day before were now driven to insanity, attacking Boris and each other. Again, Boris quietly readied his bow, and put in end to the villagers&amp;rsquo; suffering, not knowing what else he could possibly do, hoping it would all end soon. They fought their way to the local magician, the one who had originally posted the call for the quest, only to find a grotesque sight&amp;ndash;the magician&amp;rsquo;s stiff corpse, floating by some unholy means, somehow uttering a strange chant. The paladin, who Boris quickly discovered had a penchant for the strange and disgusting, began to sever the limbs of the corpse one by one, until all that was left was a floating, lifeless heart.&lt;/p&gt;
+
+&lt;p&gt;Boris did not know what to do, and so he followed his instincts. When he saw the bartender had survived and was on his way to the nation&amp;rsquo;s capitol, Boris went right up to that man, went down on one knee, and proposed.&lt;/p&gt;
+
+&lt;p&gt;As anyone else could have expected, anyone but the foolhardy Boris, the bartender laughed off the ridiculous proposal and went on his way.&lt;/p&gt;
+
+&lt;p&gt;And once again, Boris felt any happiness he had slipping from his grasp. What could he do to reclaim the hope that he cherished, if only for a moment? He went back to this new band of adventurers, decided that love could be found, that it was out there somewhere. And so he set off to find it.&lt;/p&gt;
+
+&lt;p&gt;Throughout his journey Boris had many sorry attempts at flirting, befriending, and joking. He narrowly skirted death on many an occasion. He both feared and loved the strange and dangerous world around him, both cherished and rejected his companions. He made this wayward wandering into life.&lt;/p&gt;
+
+&lt;p&gt;It was at the Dwarven city that had always overshadowed his tiny home that Boris finally met a force he could not conquer. Armies besieged the city, flooding through the gates, pushing back the forces of unity that held the empire together. Just as the enemy waves seemed to wane, a dragon crashed through the stone ceiling with a deathly roar.&lt;/p&gt;
+
+&lt;p&gt;The heroes rushed to the parapets, tried to take down the dragon by fumbling with the system of catapults and ballistas there. The Dwarven king seemed prepared for this instance, through enchantments growing him to far beyond his normal size, and he faced off against the winged beast.&lt;/p&gt;
+
+&lt;p&gt;The battle was slow, grueling. The forces of justice were slowly being slaughtered, and although Boris did his best to fight he could feel his strength fading.&lt;/p&gt;
+
+&lt;p&gt;The dragon whittled down the king&amp;rsquo;s strength before finishing him off with a killing blow. With a flap of his leathery wings he descended upon the adventurers, letting loose a gout of flame.&lt;/p&gt;
+
+&lt;p&gt;Burnt and bleeding, Boris&amp;rsquo;s body gave out. Although he never did find the love that he sought, he lived a life full of adventure, far more than he had ever expected to see in his short life.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;Special thanks for the awesome group at MassDiGI&amp;rsquo;s Summer Innovation Program for making this happen!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on Devi&#39;s Blog</title>
+    <link>http://devi-a.com/blog/tags/privacy/</link>
+    <description>Recent content in Privacy on Devi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2016 23:20:44 -0400</lastBuildDate>
+    <atom:link href="http://devi-a.com/blog/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OPT IN: An Interactive Film</title>
+      <link>http://devi-a.com/blog/post/opt-in-an-interactive-film/</link>
+      <pubDate>Tue, 12 Jan 2016 23:20:44 -0400</pubDate>
+      
+      <guid>http://devi-a.com/blog/post/opt-in-an-interactive-film/</guid>
+      <description>&lt;p&gt;Last semester I spent one class studying how digital media affects our society. We talked about all sorts of topics, from postmodernism to digital aesthetics to cyber sex.&lt;/p&gt;
+
+&lt;p&gt;For a final project, I researched and created a video using Interlude, a site that allows users to create interactive videos. I&amp;rsquo;m not one to pass up an opportunity to employ transmedia madness, and so here it is&amp;ndash;OPT IN, an interactive project featuring the voice of Isaiah Mann and plenty of footage lovingly sourced from Archive.org. The video discusses privacy and data tracking in the digital age, and provides the names of tools that can be used to protect one&amp;rsquo;s privacy going forward.&lt;/p&gt;
+
+&lt;h2&gt;A POSTMORTEM&lt;/h2&gt;
+
+&lt;p&gt;I doubt this will change as I go on, but I wish I had more time to work on this project. As I began to think about what I wanted for the video, I had some stretch goals&amp;ndash;some of which made it in, and others that didn&amp;rsquo;t quite pan out.&lt;/p&gt;
+
+&lt;p&gt;If I were to remake this, I would definitely spend more time making my own animations and incorporating more choice-based interaction with the viewer (especially making those choices more meaningful to users).&lt;/p&gt;
+
+&lt;p&gt;Some of these limitations were due to the video program itself&amp;ndash;I spent a  few hours trying to fix a generic error that didn&amp;rsquo;t allow be to export, and the website could be a bit funky on a high-resolution screen.&lt;/p&gt;
+
+&lt;p&gt;The website also (as far as I can tell) only allows the maker to give the viewer one set of choices per video, which to me made the whole thing a bit more unwieldy.&lt;/p&gt;
+
+&lt;p&gt;Overall, I&amp;rsquo;m glad I got a chance to dip my toes into the interactive video domain, and I&amp;rsquo;m looking forward to trying out this (and other programs I find) again soon!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

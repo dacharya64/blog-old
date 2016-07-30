@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game Development on Devi&#39;s Blog</title>
-    <link>http://devi-a.com/blog/tags/game-development/</link>
-    <description>Recent content in Game Development on Devi&#39;s Blog</description>
+    <title>Interactive Fiction on Devi&#39;s Blog</title>
+    <link>http://devi-a.com/blog/tags/interactive-fiction/</link>
+    <description>Recent content in Interactive Fiction on Devi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jul 2016 23:20:44 -0400</lastBuildDate>
-    <atom:link href="http://devi-a.com/blog/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>So Many Releases!</title>
-      <link>http://devi-a.com/blog/post/so-many-releases/</link>
-      <pubDate>Thu, 28 Jul 2016 23:20:44 -0400</pubDate>
-      
-      <guid>http://devi-a.com/blog/post/so-many-releases/</guid>
-      <description>&lt;p&gt;This is all about the release of Fusion Galaxy and Eternal Flopnation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Release the Robots!</title>
-      <link>http://devi-a.com/blog/post/release-the-robots/</link>
-      <pubDate>Fri, 15 Apr 2016 23:20:44 -0400</pubDate>
-      
-      <guid>http://devi-a.com/blog/post/release-the-robots/</guid>
-      <description>&lt;p&gt;Getting ready for the weekend? Looking for something to do? Look no further! You can now play Red Survivor, a game me and the folks at Mustachio Games have been working on for a long time! It&amp;rsquo;s now available for FREE!&lt;/p&gt;
-
-&lt;p&gt;Red Survivor is a survival-strategy game for PC and Mac. You get to kill robots, build traps, and keep the flame of humanity alive. So what are you waiting for? Go check it out!&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 26 Jan 2016 23:20:44 -0400</lastBuildDate>
+    <atom:link href="http://devi-a.com/blog/tags/interactive-fiction/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Interactive Fiction Programs Compiled</title>

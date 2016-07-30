@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Devi&#39;s Blog</title>
+    <link>http://devi-a.com/blog/tags/video/</link>
+    <description>Recent content in Video on Devi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Mar 2016 23:20:44 -0400</lastBuildDate>
+    <atom:link href="http://devi-a.com/blog/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Presenting... Dusk to Dawn!</title>
+      <link>http://devi-a.com/blog/post/presenting-dusk-to-dawn/</link>
+      <pubDate>Thu, 10 Mar 2016 23:20:44 -0400</pubDate>
+      
+      <guid>http://devi-a.com/blog/post/presenting-dusk-to-dawn/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on improving my After Effects skills (a tough challenge, I know!) and finally have something to show for my foray into the 3D After Effects environment.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/158540886&#34; width=&#34;640&#34; height=&#34;427&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

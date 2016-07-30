@@ -32,6 +32,116 @@
     </item>
     
     <item>
+      <title>Presenting... Dusk to Dawn!</title>
+      <link>http://devi-a.com/blog/post/presenting-dusk-to-dawn/</link>
+      <pubDate>Thu, 10 Mar 2016 23:20:44 -0400</pubDate>
+      
+      <guid>http://devi-a.com/blog/post/presenting-dusk-to-dawn/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on improving my After Effects skills (a tough challenge, I know!) and finally have something to show for my foray into the 3D After Effects environment.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/158540886&#34; width=&#34;640&#34; height=&#34;427&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Fiction Programs Compiled</title>
+      <link>http://devi-a.com/blog/post/interactive-fiction-programs-compiled/</link>
+      <pubDate>Tue, 26 Jan 2016 23:20:44 -0400</pubDate>
+      
+      <guid>http://devi-a.com/blog/post/interactive-fiction-programs-compiled/</guid>
+      <description>&lt;p&gt;So recently I started up a Facebook group for those interested in writing in game development, as a space for writers to meet others with the same interest and to collaborate with other game devs on narrative games.&lt;/p&gt;
+
+&lt;p&gt;As part of the group, I&amp;rsquo;m writing up a series of documents about helpful tools and strategies for choice-based writing, and figured I might as well post them on here as well!&lt;/p&gt;
+
+&lt;h2&gt;Hyperlink/Branching Narrative Games (i.e. gamebooks)&lt;/h2&gt;
+
+&lt;p&gt;This kind of game is likely what comes to mind when you think of interactive stories. From the old choose-your-own-adventure books to some of the cool, innovative stuff in the field (think Lifeline), these games all start with someone sitting down and writing.&lt;/p&gt;
+
+&lt;p&gt;TWINE
+Probably one of the most popular tools for choice-based stories, Twine has an easy-to-use interface and fairly simple syntax for adding complexity to your games. Supports customizable HTML and images! Twine users are also active on their forum, and open to helping out newbies.&lt;/p&gt;
+
+&lt;p&gt;CHOICESCRIPT
+Choicescript was what I used to get started making interactive fiction games. Provided by the fine folks at ChoiceOfGames, Choicescript can feel a bit obtuse at first, but can be finessed into creating some powerful stories.&lt;/p&gt;
+
+&lt;p&gt;INKLEWRITER
+inklewriter is a tool created by Inkle Studios, authors of 80 Days, amongst other things. While inklewriter doesn’t afford quite the versatility of Twine, it can be a great tool for people who want to get comfortable with a simple way to write interactive fiction online.&lt;/p&gt;
+
+&lt;p&gt;STORYLAB
+Adventure Cow (by the team who created DestinyQuest Infinite) has created StoryLab, a place for authors to create interactive stories that include images and complexity without code.&lt;/p&gt;
+
+&lt;p&gt;STORYNEXUS
+I’ve not actually had a chance to work with StoryNexus yet, but if it lets you create anything like Fallen London you’re in good hands.&lt;/p&gt;
+
+&lt;p&gt;STORYEXPLORER
+StoryExplorer is similar to ChooseYourStory (below) in that’s it’s easy to get started and uses just a simple hypertext mechanism. You can write and share your work through this site.&lt;/p&gt;
+
+&lt;p&gt;CHOOSEYOURSTORY
+A place to create and share interactive fiction, using a simple online editor. Features a forum and community-written articles.&lt;/p&gt;
+
+&lt;p&gt;SQUIFFY
+Made by the same people who brought you Quest (below). Like many of the other programs, it is pretty easy to use right away. It includes both an online version and an executable version.&lt;/p&gt;
+
+&lt;p&gt;CREATE YOUR OWN STORY
+Using the format of hyperlinked wikis, Create Your Own Story allows users to create content with a variety of different people. Stories here generally have a wide range of lengths, genres, and ratings.&lt;/p&gt;
+
+&lt;p&gt;NOTE: Above I have listed all the free and open options for making games from writing to publication. Other programs exist, such as StoryStylus and AXMA Story Maker but the companies that produced these toolsets have more control over what you can write and publish.&lt;/p&gt;
+
+&lt;p&gt;There’s also The Written World, but unfortunately the site seems to be defunct.&lt;/p&gt;
+
+&lt;h2&gt;Parser Games&lt;/h2&gt;
+
+&lt;p&gt;Reminiscent of old-school games, parser fiction gives the player (presumably more freedom). The player is presented with a location, and types commands (GO NORTH, TAKE ROCK) in order to interact with the world.&lt;/p&gt;
+
+&lt;p&gt;INFORM 7
+Inform is great at what it does&amp;ndash;it presents a way for anyone to get started making a parser game and the “programming” is done in a syntax similar to regular writing (“In the cave there is a rock. The description of the rock is ‘Looks slimy.’”). There is also a good deal of documentation and many add-ons created by the community.&lt;/p&gt;
+
+&lt;p&gt;TADS
+I’ve not used TADS myself, but my understanding of it is Inform for those more programmer-oriented. It is also free and documented.&lt;/p&gt;
+
+&lt;p&gt;QUEST
+Quest was designed to be a simpler way to approach writing parser fiction. It is both free and you can copy and modify the source code, if you’re partial to that.&lt;/p&gt;
+
+&lt;p&gt;ADRIFT
+ADRIFT is for visual thinkers. It lays out a map of your world and allows you to create objects and other descriptions separately. It does, however, lose some of the complexity of Inform.
+Integrated Narrative Games&lt;/p&gt;
+
+&lt;p&gt;Sometimes you don’t want to make something super text-heavy. Instead you want to integrate some of the functionality of interactive fiction with a different style of gameplay. These resources can help you do that.&lt;/p&gt;
+
+&lt;p&gt;REN’PY
+Ren’Py is a visual novel engine that uses Python. You can use it to create visual novels that integrate sound, story, and art seamlessly. It’s easy to get started and there’s some good documentation.&lt;/p&gt;
+
+&lt;p&gt;FUNGUS
+Fungus ties in with Unity, allowing the user to integrate dialogue and narrative into your 2D or 3D game. It’s free and open source, plus it’s called Fungus, which is just great.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPT IN: An Interactive Film</title>
+      <link>http://devi-a.com/blog/post/opt-in-an-interactive-film/</link>
+      <pubDate>Tue, 12 Jan 2016 23:20:44 -0400</pubDate>
+      
+      <guid>http://devi-a.com/blog/post/opt-in-an-interactive-film/</guid>
+      <description>&lt;p&gt;Last semester I spent one class studying how digital media affects our society. We talked about all sorts of topics, from postmodernism to digital aesthetics to cyber sex.&lt;/p&gt;
+
+&lt;p&gt;For a final project, I researched and created a video using Interlude, a site that allows users to create interactive videos. I&amp;rsquo;m not one to pass up an opportunity to employ transmedia madness, and so here it is&amp;ndash;OPT IN, an interactive project featuring the voice of Isaiah Mann and plenty of footage lovingly sourced from Archive.org. The video discusses privacy and data tracking in the digital age, and provides the names of tools that can be used to protect one&amp;rsquo;s privacy going forward.&lt;/p&gt;
+
+&lt;h2&gt;A POSTMORTEM&lt;/h2&gt;
+
+&lt;p&gt;I doubt this will change as I go on, but I wish I had more time to work on this project. As I began to think about what I wanted for the video, I had some stretch goals&amp;ndash;some of which made it in, and others that didn&amp;rsquo;t quite pan out.&lt;/p&gt;
+
+&lt;p&gt;If I were to remake this, I would definitely spend more time making my own animations and incorporating more choice-based interaction with the viewer (especially making those choices more meaningful to users).&lt;/p&gt;
+
+&lt;p&gt;Some of these limitations were due to the video program itself&amp;ndash;I spent a  few hours trying to fix a generic error that didn&amp;rsquo;t allow be to export, and the website could be a bit funky on a high-resolution screen.&lt;/p&gt;
+
+&lt;p&gt;The website also (as far as I can tell) only allows the maker to give the viewer one set of choices per video, which to me made the whole thing a bit more unwieldy.&lt;/p&gt;
+
+&lt;p&gt;Overall, I&amp;rsquo;m glad I got a chance to dip my toes into the interactive video domain, and I&amp;rsquo;m looking forward to trying out this (and other programs I find) again soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pathfinding: Stella</title>
       <link>http://devi-a.com/blog/post/pathfinding-stella/</link>
       <pubDate>Mon, 14 Sep 2015 23:40:44 -0400</pubDate>
